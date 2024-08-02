@@ -1,0 +1,82 @@
+.tela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    height: 100vh;
+    width: 100vw;
+    background-color: #D9CDF7;
+    width: Fixed (875px)px;
+    height: Fixed (498px)px;
+    top: 368px;
+    left: 1132px;
+    gap: 13px;
+    border-radius: 9.6px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.imagem{
+    width: 449px;
+    height: 222.96px;
+    gap: 0px;
+    opacity: 0px;
+    width: 449px;
+    height: 253px;
+    top: -8px;
+    left: -366px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.textos{
+    width: Hug (281px)px;
+    height: Fill (498px)px;
+    gap: 20px;
+    opacity: 0px;
+    color: #271A45;
+    margin: 0%;
+    
+}
+#ultimo{
+    color: #271A45;
+    background-color: #D9CDF7;
+    padding: 8px 16px 8px 16px;
+    border-radius: 30px;
+    border: 0.5px solid #271A45;
+}
+
+#codigo{
+    font-family: Lato;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 10px;
+    text-align: left;
+}
+
+#sofa{
+    font-family: Crimson Pro;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    margin: 0%;
+}
+
+#valor{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+}
+
+.botao360{
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+
